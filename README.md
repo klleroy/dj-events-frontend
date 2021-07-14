@@ -4,7 +4,7 @@
 
 This project is part of a course on NextJS, I took on [Udemy](https://www.udemy.com/course/nextjs-dev-to-deployment)
 
-![DJ Events](/public/images/screen.png 'DJ Events')
+![DJ Events](/public/images/screenShot.png 'DJ Events')
 
 [VIEW DEMO](https://https://djeventsfrontend0721.vercel.app/)
 
